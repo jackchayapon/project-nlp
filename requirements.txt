@@ -1,0 +1,31 @@
+# --- Web Framework ---
+streamlit
+streamlit-option-menu
+streamlit-folium
+
+# --- Web Scraping ---
+requests
+beautifulsoup4
+
+# --- Data Handling ---
+pandas
+numpy
+python-dateutil
+psycopg2-binary
+
+# --- NLP / AI Models ---
+torch
+transformers
+sentence-transformers
+nltk
+pythainlp
+kss
+
+# --- Visualization / Map ---
+folium
+
+# --- Utility ---
+tqdm
+typing-extensions
+scikit-learn
+Pillow
