@@ -13,7 +13,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM
 # ==============================
 # Config
 # ==============================
-DB_URI = "postgresql://neondb_owner:npg_o6AY4XRynVZK@ep-wandering-grass-a1ha7u59-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require"
+DB_URI = "your database api"
 
 EMBED_MODEL_NAME = "sentence-transformers/paraphrase-multilingual-MiniLM-L12-v2"
 GEN_MODEL_NAME   = "Qwen/Qwen2.5-1.5B-Instruct"
