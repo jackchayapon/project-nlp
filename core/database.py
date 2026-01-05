@@ -7,7 +7,7 @@ from dateutil import parser
 # ──────────────────────────────────────
 # DATABASE CONFIG (Neon PostgreSQL)
 # ──────────────────────────────────────
-DB_URI = "postgresql://neondb_owner:npg_o6AY4XRynVZK@ep-wandering-grass-a1ha7u59-pooler.ap-southeast-1.aws.neon.tech/neondb?sslmode=require"
+DB_URI = "your database api"
 
 def connect_db():
     return psycopg2.connect(DB_URI)
